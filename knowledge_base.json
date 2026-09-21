@@ -1,0 +1,82 @@
+[
+  {
+    "id": "cooked_grains",
+    "keywords": ["rice", "cooked rice", "biryani", "pulao", "khichdi", "grain", "grains"],
+    "guidance": "Cooked rice and other cooked grains should be cooled quickly and refrigerated rather than left at room temperature for long periods. As a general practice, most food-safety authorities suggest eating refrigerated cooked rice within about 1-2 days, and reheating it only once, until steaming hot. When in doubt about how long something has been sitting out, it is safer to discard it than to eat it."
+  },
+  {
+    "id": "cooked_legumes",
+    "keywords": ["dal", "lentil", "lentils", "curry", "sabzi", "cooked vegetable", "cooked dal", "sambar", "rajma", "chole"],
+    "guidance": "Cooked lentil dishes, curries and sabzis are generally best refrigerated in a covered container and used within about 1-2 days. They can often be repurposed creatively (for example, into parathas, cutlets, soups or wraps) instead of being reheated the same way repeatedly, which helps reduce monotony-driven waste."
+  },
+  {
+    "id": "bread",
+    "keywords": ["bread", "loaf", "bun", "pav", "roti", "chapati"],
+    "guidance": "Bread that is going stale but not moldy can usually still be used for toast, croutons, bread pudding, or as a thickener in some recipes. Visible mold means the item should be discarded rather than trimmed and eaten, since mold can spread invisibly through soft foods. Bread also freezes well for longer storage if it will not be eaten soon."
+  },
+  {
+    "id": "tomatoes",
+    "keywords": ["tomato", "tomatoes"],
+    "guidance": "Ripe tomatoes are best used within a few days at room temperature, or a bit longer if refrigerated once fully ripe. Slightly overripe tomatoes are still generally fine for cooking (sauces, curries) even if they look less appealing for salads."
+  },
+  {
+    "id": "leafy_greens",
+    "keywords": ["spinach", "leafy", "greens", "coriander", "cilantro", "methi", "lettuce"],
+    "guidance": "Leafy greens wilt quickly and are usually best used within a couple of days unless stored well-wrapped and refrigerated. Slightly wilted greens are often still fine for cooking (they just aren't ideal raw), so they don't need to be thrown out immediately."
+  },
+  {
+    "id": "root_vegetables",
+    "keywords": ["potato", "potatoes", "onion", "onions", "carrot", "carrots", "beetroot"],
+    "guidance": "Root vegetables such as potatoes, onions and carrots generally last considerably longer than leafy vegetables if kept in a cool, dark, dry place. They are a lower priority for immediate use compared to more perishable items, though visible sprouting, softness or dark spots are a sign to check them more closely before use."
+  },
+  {
+    "id": "bananas",
+    "keywords": ["banana", "bananas"],
+    "guidance": "Bananas ripen faster when kept near other ripening fruit (like apples) and slower when separated and kept cool. Overripe bananas are well suited to smoothies or baking rather than being discarded."
+  },
+  {
+    "id": "citrus_apples",
+    "keywords": ["apple", "apples", "orange", "oranges", "lemon", "lemons", "citrus"],
+    "guidance": "Apples and citrus fruits generally keep for a relatively long time compared to more delicate produce, especially if refrigerated, making them a lower priority for immediate use."
+  },
+  {
+    "id": "dairy",
+    "keywords": ["milk", "curd", "yogurt", "paneer", "cheese", "dairy"],
+    "guidance": "Dairy products should be kept refrigerated and used by the date on the package where available. Slightly soured milk can sometimes still be used in cooking (e.g., in batters), but any dairy with an off smell, unusual texture, or visible mold should be discarded rather than tasted to check."
+  },
+  {
+    "id": "leftovers_general",
+    "keywords": ["leftover", "leftovers", "extra food", "extra rice", "extra curry"],
+    "guidance": "A useful general habit is a 'first in, first out' approach: use older leftovers before newer ones, and store leftovers in clear, labelled containers so they are not forgotten at the back of the fridge. Combining small amounts of several leftovers into a single dish (like a mixed fried rice, frittata, or wrap) is a practical way to use up odds and ends."
+  },
+  {
+    "id": "freezing",
+    "keywords": ["freeze", "freezer", "frozen"],
+    "guidance": "Many cooked dishes, breads, and some vegetables can be frozen to extend their usable life significantly beyond what refrigeration alone allows, which is useful when a household has prepared or bought more than it can eat soon. Freezing does not make food last forever, and thawed food is generally best used promptly rather than refrozen."
+  },
+  {
+    "id": "expiry_labels",
+    "keywords": ["expiry", "expiry date", "best before", "use by", "best by"],
+    "guidance": "'Use by' dates are generally about safety, while 'best before' dates are generally about quality/freshness rather than safety. Because label conventions can vary by product and region, official/local food-safety guidance should be checked when there is genuine uncertainty, rather than relying solely on a general assistant."
+  },
+  {
+    "id": "shopping_planning",
+    "keywords": ["shopping", "buy", "planning", "grocery", "purchase"],
+    "guidance": "Planning meals for the week and checking what is already available before shopping again is one of the most effective ways to avoid over-purchasing. Buying smaller quantities of highly perishable items more frequently, rather than large quantities infrequently, can also reduce spoilage."
+  },
+  {
+    "id": "portioning",
+    "keywords": ["portion", "cooking too much", "excess food", "mess", "hostel", "canteen"],
+    "guidance": "In shared settings like hostels, messes and canteens, a common cause of waste is preparing more food than is actually consumed. Simple practices like tracking approximate daily consumption patterns, encouraging smaller initial servings with the option to take more, and repurposing surplus into the next meal can meaningfully reduce avoidable waste."
+  },
+  {
+    "id": "composting",
+    "keywords": ["peel", "peels", "scraps", "inedible", "compost"],
+    "guidance": "For genuinely inedible parts of food (such as certain peels or scraps), composting where feasible is preferable to sending them to landfill, since it returns nutrients to soil rather than generating methane in a landfill setting."
+  },
+  {
+    "id": "sensory_check",
+    "keywords": ["smell", "safety", "spoiled", "spoilage", "safe to eat", "food safety"],
+    "guidance": "General sensory checks (smell, appearance, texture) can help flag food that is clearly spoiled, but they are not a guarantee of safety, since some harmful contamination is not detectable by smell or appearance. When there is real uncertainty about whether something is safe to eat, official or local food-safety guidance should be consulted, and the cautious choice is usually to discard rather than risk it."
+  }
+]

@@ -155,5 +155,4 @@ throughout this project as a development partner.
 
 ## 6. Sample test inputs
 
-See `SAMPLE_TEST_INPUTS.md` for ready-to-use test cases (the example from the brief, an
-empty/edge case, and a "everything is very fresh" case) plus what to check for in each output.
+See `SAMPLE_TEST_INPUTS.md` for ready-to-use test cases (the example from the brief, an empty/edge case, and a "everything is very fresh" case) plus what to check for in each output.
